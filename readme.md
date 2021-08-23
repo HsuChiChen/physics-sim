@@ -8,9 +8,8 @@ Time : 2019 fall (first half semester of freshman)
 |[普通物理學](https://onepiece.nchu.edu.tw/cofsys/plsql/Syllabus_main?v_strm=1081&v_class_nbr=1669)|[黃文敏](https://www.phys.nchu.edu.tw/member/ins.php?index_m1_id=4&index_id=35)|
 
 ref : [doc](https://www.glowscript.org/docs/VPythonDocs/canvas.html)
-<br>
 
----
+<br>
 
 - [lec1](#lec1)
 - [lec2](#lec2)
