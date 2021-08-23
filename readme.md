@@ -2,7 +2,6 @@
 Time : 2019 fall (first half semester of freshman)
 
 ## lecture
-
 |科目名稱|教授|
 |:-:|:-:|
 |[普通物理學](https://onepiece.nchu.edu.tw/cofsys/plsql/Syllabus_main?v_strm=1081&v_class_nbr=1669)|[黃文敏](https://www.phys.nchu.edu.tw/member/ins.php?index_m1_id=4&index_id=35)|
@@ -11,6 +10,7 @@ ref : [doc](https://www.glowscript.org/docs/VPythonDocs/canvas.html)
 
 <br>
 
+## Homework
 - [lec1](#lec1)
 - [lec2](#lec2)
 - [lec3](#lec3)
@@ -35,12 +35,11 @@ ref : [doc](https://www.glowscript.org/docs/VPythonDocs/canvas.html)
 ```
 pip install Vpython
 ```
-
 2. download repo
 ```
 git clone https://github.com/HsuChiChen/physics-sim.git
 ```
-2. choose which source code you want to run
+3. choose which source code you want to run
 ```
 python {filename}
 ```
@@ -92,8 +91,3 @@ python {filename}
 |檔案名稱|描述|
 |:-:|:-:|
 |bullet|子彈撞木塊|
-
-
-
-
-
