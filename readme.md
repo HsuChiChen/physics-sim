@@ -10,7 +10,8 @@ Time : 2019 fall (first half semester of freshman)
 ref : [doc](https://www.glowscript.org/docs/VPythonDocs/canvas.html)
 <br>
 
-## 
+---
+
 - [lec1](#lec1)
 - [lec2](#lec2)
 - [lec3](#lec3)
