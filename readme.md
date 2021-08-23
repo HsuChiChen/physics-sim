@@ -31,7 +31,7 @@ ref : [doc](https://www.glowscript.org/docs/VPythonDocs/canvas.html)
 <br>
 
 ## How to Run
-1. 
+1. download Vpython
 ```
 pip install Vpython
 ```
@@ -48,14 +48,12 @@ python {filename}
 <br>
 
 ## lec1
-物件的建立
 |檔案名稱|描述|
 |:-:|:-:|
 |hw1|物體建立|
 
 
 ## lec02
-物件的移動與迴圈
 |檔案名稱|描述|
 |:-:|:-:|
 |hw2|物A在一箱子彈性碰撞|
@@ -68,7 +66,9 @@ python {filename}
 |elastic|物A掉落在平面上彈性碰撞(有空阻)
 
 ## lec4
-- SHO SHO運動
+|檔案名稱|描述|
+|:-:|:-:|
+|SHO|SHO運動|
 
 ## lec5
 |檔案名稱|描述|
